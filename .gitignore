@@ -1,0 +1,13 @@
+# Ignorar carpetas de datos y archivos temporales
+#chest_xray/train/
+#chest_xray/test/
+#chest_xray/val/
+*.pyc
+__pycache__/
+.DS_Store
+.env
+.venv/
+.conda/
+.ipynb_checkpoints/
+*.log
+*.tmp
