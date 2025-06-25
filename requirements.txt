@@ -1,0 +1,20 @@
+# requirements.txt para el entorno de detección de neumonía por rayos X
+
+# Librerías principales de ciencia de datos y machine learning
+numpy
+matplotlib
+seaborn
+tensorflow
+scikit-learn
+pandas
+
+# Para descarga de datasets desde Kaggle
+kagglehub
+
+# (Opcional) Si usas Jupyter Notebook
+notebook
+jupyterlab
+ipywidgets
+
+# (Opcional) Si usas Google Colab, puedes agregar:
+# colabcode
